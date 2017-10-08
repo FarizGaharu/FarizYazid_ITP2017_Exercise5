@@ -1,0 +1,1 @@
+Fariz Ihsan yazid exercise 5 factorial
